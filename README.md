@@ -46,7 +46,7 @@ gclone copy gc:{folde_id1} gc:{folde_id2}/media/  --drive-server-side-across-con
 ```
 
 ```
-gclone copy gc:{share_fiel_id} gc:{folde_id2}  --drive-server-side-across-configs
+gclone copy gc:{share_fiel_id} gc:{folde_id2}  --drive-server-side-across-configs .
 ```
   
 
